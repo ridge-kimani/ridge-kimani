@@ -1,28 +1,66 @@
-### Hi there 👋
+### RIDGE KIMANI
 
-
-- 🔭 I’m a fullstack engineer interested in building software for the internet
+- I'm a Senior Software Engineer with 7 years of experience building practical software and experiences, ensuring that products meet the highest standards.
+With a focus on creating maintainable and sustainable tools, applications, and systems, I have handled migrations, tested services and products, and guided technical teams to increase performance.
+- I have experience as a leader and has developed a skill set in different services and specializations with different tools. In addition to that, I understand how to handle critical bugs individually and work effectively with remote teams worldwide.
+- I've also been involved in researching and deploying probable NASA Transfer Technological Solutions that are supposed to help the planet's ecosystem by making it a sustainable environment. Some of these solutions are supposed to help pioneer life outside earth and beyond the solar system.
 
 ### Tech Stacks
-
-- Javascript: VueJS, ReactJS, Svelte, Node JS,
-- Python: Flask, Django
-- Ruby: RoR
-- Typescript
-
-### Tools
- 
- 
- - AWS
- - Azure
- - Git
- - MongoDB
- - Google Cloud Platform
-
-
-### Specialization
- 
- - E-commerce
- - Machine Learning
- - Artificial Intelligence
- - Big Data
+- Python
+- SQL
+- HTML
+- JavaScript
+- C
+- Java
+- C++
+- CSS
+- Git
+- Google Workspace
+- JIRA
+- React
+- jQuery
+- Docker
+- Angular
+- MongoDB
+- PostgreSQL
+- Express
+- Node.js
+- TypeScript
+- GitHub
+- Django
+- HTTP
+- Figma
+- Artificial Intelligence
+- React
+- Firebase
+- Ruby
+- Svelte
+- GraphQL
+- Redis
+- Flask
+- Azure
+- AWS
+- GCP
+- Google Analytics
+- Amazon EC2
+- Sketch
+- Visual Studio Code
+- Bootstrap
+- Salesforce
+- Astrophysics
+- Quantum Mechanics
+- Mathematics
+- Terraform
+- LightHouse
+- SSL
+- Machine Learning
+- eCommerce
+- Selenium
+- Slack
+- Trello
+- Asana
+- NoSQL
+- SQLite
+- Zoom
+- Cloud Services
+- Postman

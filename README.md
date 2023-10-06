@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Ridge Kimani
+# 👋 Hi,
 
 ![](https://github.com/ridge-kimani/ridge-kimani/blob/main/banner.png)
 

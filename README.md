@@ -45,28 +45,10 @@ project management and financial processes.
     <a href="https://www.ruby-lang.org/" target="_blank"><img style="margin: 10px" src="https://github.com/ridge-kimani/ridge-kimani/blob/main/logos/ruby.svg" alt="Ruby" height="50" /></a>
 </div>
 <div class="margin: 12px">
-    <a href="https://www.rust-lang.org/" target="_blank"><img style="margin: 10px" src="https://github.com/ridge-kimani/ridge-kimani/blob/main/logos/rust.svg" alt="Rust" height="50" /></a>
-</div>
-<div class="margin: 12px">
-    <a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://github.com/ridge-kimani/ridge-kimani/blob/main/logos/django.svg" alt="Django" height="50" /></a>
-</div>
-<div class="margin: 12px">
-    <a href="https://www.flaskpalletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://github.com/ridge-kimani/ridge-kimani/blob/main/logos/flask.svg" alt="Flask" height="50" /></a>
-</div>
-<div class="margin: 12px">
     <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://github.com/ridge-kimani/ridge-kimani/blob/main/logos/java.svg" alt="Java" height="50" /></a>
 </div>
 <div class="margin: 12px">
-    <a href="https://www.vuejs.org/" target="_blank"><img style="margin: 10px" src="https://github.com/ridge-kimani/ridge-kimani/blob/main/logos/vue.svg" alt="Vue" height="50" /></a>
-</div>
-<div class="margin: 12px">
-    <a href="https://www.react.dev/" target="_blank"><img style="margin: 10px" src="https://github.com/ridge-kimani/ridge-kimani/blob/main/logos/react.svg" alt="React" height="50" /></a>
-</div>
-<div class="margin: 12px">
-    <a href="https://www.svelte.dev/" target="_blank"><img style="margin: 10px" src="https://github.com/ridge-kimani/ridge-kimani/blob/main/logos/svelte.svg" alt="Svelte" height="50" /></a>
-</div>
-<div class="margin: 12px">
-    <a href="https://www.svelte.dev/" target="_blank"><img style="margin: 10px" src="https://github.com/ridge-kimani/ridge-kimani/blob/main/logos/css.svg" alt="CSS" height="50" /></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img style="margin: 10px" src="https://github.com/ridge-kimani/ridge-kimani/blob/main/logos/css.svg" alt="CSS" height="50" /></a>
 </div>
 
 </div>

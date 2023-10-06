@@ -28,10 +28,6 @@ project management and financial processes.
 
 #### Languages
 <div align="center">  
-<a href="https://www.jenkins.io/" target="_blank">
-<img style="margin: 10px" src="https://github.com/ridge-kimani/ridge-kimani/blob/main/logos/jenkins_logo.svg" alt="Jenkins" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://github.com/ridge-kimani/ridge-kimani/blob/main/logos/github-logo.svg" alt="Git" height="50" /></a>  
-<a href="https://www.terraform.io/" target="_blank"><img style="margin: 10px" src="https://github.com/ridge-kimani/ridge-kimani/blob/main/logos/terraform.svg" alt="Terraform" height="50" /></a>  
 </div>
 
 </td>

@@ -29,40 +29,40 @@ project management and financial processes.
 
 #### Languages
 <div align="center">
-<div style="padding: 10px">
+<div style="margin: 12px">
     <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://github.com/ridge-kimani/ridge-kimani/blob/main/logos/js.svg" alt="Javascript" height="50" /></a>
 </div>
-<div style="padding: 10px">
+<div style="margin: 12px">
     <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://github.com/ridge-kimani/ridge-kimani/blob/main/logos/python.svg" alt="Python" height="50" /></a>
 </div>
-<div class="padding: 10px">
+<div class="margin: 12px">
     <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://github.com/ridge-kimani/ridge-kimani/blob/main/logos/ts.svg" alt="Typescript" height="50" /></a>
 </div>
-<div>
+<div class="margin: 12px">
     <a href="https://www.nodejs.org/" target="_blank"><img style="margin: 10px" src="https://github.com/ridge-kimani/ridge-kimani/blob/main/logos/node.svg" alt="Node" height="50" /></a>
 </div>
-<div>
+<div class="margin: 12px">
     <a href="https://www.ruby-lang.org/" target="_blank"><img style="margin: 10px" src="https://github.com/ridge-kimani/ridge-kimani/blob/main/logos/ruby.svg" alt="Ruby" height="50" /></a>
 </div>
-<div>
+<div class="margin: 12px">
     <a href="https://www.rust-lang.org/" target="_blank"><img style="margin: 10px" src="https://github.com/ridge-kimani/ridge-kimani/blob/main/logos/rust.svg" alt="Rust" height="50" /></a>
 </div>
-<div>
+<div class="margin: 12px">
     <a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://github.com/ridge-kimani/ridge-kimani/blob/main/logos/django.svg" alt="Django" height="50" /></a>
 </div>
-<div>
+<div class="margin: 12px">
     <a href="https://www.flaskpalletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://github.com/ridge-kimani/ridge-kimani/blob/main/logos/flask.svg" alt="Flask" height="50" /></a>
 </div>
-<div>
+<div class="margin: 12px">
     <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://github.com/ridge-kimani/ridge-kimani/blob/main/logos/java.svg" alt="Java" height="50" /></a>
 </div>
-<div>
+<div class="margin: 12px">
     <a href="https://www.vuejs.org/" target="_blank"><img style="margin: 10px" src="https://github.com/ridge-kimani/ridge-kimani/blob/main/logos/vue.svg" alt="Vue" height="50" /></a>
 </div>
-<div>
+<div class="margin: 12px">
     <a href="https://www.react.dev/" target="_blank"><img style="margin: 10px" src="https://github.com/ridge-kimani/ridge-kimani/blob/main/logos/react.svg" alt="React" height="50" /></a>
 </div>
-<div>
+<div class="margin: 12px">
     <a href="https://www.svelte.dev/" target="_blank"><img style="margin: 10px" src="https://github.com/ridge-kimani/ridge-kimani/blob/main/logos/svelte.svg" alt="Svelte" height="50" /></a>
 </div>
 

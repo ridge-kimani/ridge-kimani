@@ -14,13 +14,21 @@ project management and financial processes.
 ## 🌐 Connect:
 [![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/ridgekimani)
 [![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)](https://bitbucket.org/ridgekimani)
-[![GitHub](https://img.shields.io/badge/rnkimani-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rnkimani)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/hapibictide)
-[![GitHub](https://img.shields.io/badge/fristellar-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fristellar)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ridge-kimani)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://www.twitter.com/kimani_ridge)
-[![GitHub](https://img.shields.io/badge/ridgekimani-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ridgekimani)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ridgekimani@gmail.com)
+
+## Github
+[![GitHub](https://img.shields.io/badge/ridgekimani-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ridgekimani) 
+- <2015 - now>
+
+[![GitHub](https://img.shields.io/badge/rnkimani-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rnkimani) 
+- <2017 - now>
+
+[![GitHub](https://img.shields.io/badge/fristellar-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fristellar) 
+- <2021 - now>
+
 
 ## 💻 Skills:
 <table>

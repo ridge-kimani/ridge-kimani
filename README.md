@@ -20,11 +20,14 @@ project management and financial processes.
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ridgekimani@gmail.com)
 
 ## Github
-[![GitHub](https://img.shields.io/badge/ridgekimani-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ridgekimani) <2015 - now>
+[![GitHub](https://img.shields.io/badge/ridgekimani-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ridgekimani) 
+- <2015 - now>
 
-[![GitHub](https://img.shields.io/badge/rnkimani-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rnkimani) <2017 - now>
+[![GitHub](https://img.shields.io/badge/rnkimani-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rnkimani) 
+- <2017 - now>
 
-[![GitHub](https://img.shields.io/badge/fristellar-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fristellar) <2021 - now>
+[![GitHub](https://img.shields.io/badge/fristellar-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fristellar) 
+- <2021 - now>
 
 
 ## 💻 Skills:

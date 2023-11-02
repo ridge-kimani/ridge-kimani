@@ -4,10 +4,11 @@
 
 <br></br>
 - 👀 Worked with different industries in delivering multiple experiences. These include e-commerce, advertisement,
-project management, and financial processes.
-- 🌱 Current main stack is Javascript, Typescript, and Python. Worked with Ruby and Java too.
-- 💞️ I enjoy discovering technology as part of my journey.
-- 💬 Working towards energy sustainability: ~ carbon free code ~
+project management, and financial processes 👨‍🔬🔬🧬.
+- 🌱 Current main stack is Javascript, Typescript, and Python. Worked with Ruby and Java too 📈.
+- 💻 Enjoy discovering technology as part of my journey 🎧.
+- 💬 Working towards energy sustainability: ~ carbon free code ~ 🔋.
+- 🌐 Open Source Contributor 🛸.
 
 
 ## 🌐 Connect:

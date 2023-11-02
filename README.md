@@ -1,12 +1,11 @@
 # Hi 👋
 
-![](https://github.com/ridge-kimani/ridge-kimani/blob/main/banner.png)
-
+[![An image of @ridgekimani's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ridgekimani)](https://holopin.io/@ridgekimani)
 
 <br></br>
 - 👀 Worked with different industries in delivering multiple experiences. These include e-commerce, advertisement,
-project management and financial processes.
-- 🌱 Current main stack is Javascript, Typescript and Python. Worked with Ruby and Java too.
+project management, and financial processes.
+- 🌱 Current main stack is Javascript, Typescript, and Python. Worked with Ruby and Java too.
 - 💞️ I enjoy discovering technology as part of my journey.
 - 💬 Working towards energy sustainability: ~ carbon free code ~
 
@@ -225,8 +224,5 @@ project management and financial processes.
 
 <br/> 
 
-### Badges
-
-[![An image of @ridgekimani's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ridgekimani)](https://holopin.io/@ridgekimani)
 
 <br></br>

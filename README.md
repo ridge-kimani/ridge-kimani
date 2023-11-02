@@ -22,7 +22,7 @@ project management, and financial processes 👨‍🔬🔬🧬.
 [![GitHub](https://img.shields.io/badge/ridgekimani-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ridgekimani?tab=overview&from=2018-12-01&to=2018-12-31) 
 - <2015 - now>
 
-[![GitHub](https://img.shields.io/badge/rnkimani-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/rnkimani](https://github.com/rnkimani?tab=overview&from=2020-12-01&to=2020-12-31)) 
+[![GitHub](https://img.shields.io/badge/rnkimani-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rnkimani?tab=overview&from=2020-12-01&to=2020-12-31)
 - <2017 - now>
 
 

@@ -21,7 +21,7 @@ project management, and financial processes 👨‍🔬🔬🧬.
 - <2015 - 2018>
 
 [![GitHub](https://img.shields.io/badge/rnkimani-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rnkimani?tab=overview&from=2020-12-01&to=2020-12-31)
-- <2017 - 2020>
+- <2017 - 2021>
 
 
 ## 💻 Skills:

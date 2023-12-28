@@ -13,7 +13,6 @@ project management, and financial processes 👨‍🔬🔬🧬.
 [![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/ridgekimani)
 [![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)](https://bitbucket.org/ridgekimani)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ridge-kimani)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://www.twitter.com/kimani_ridge)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ridgekimani@gmail.com)
 
 ## Github
@@ -45,9 +44,6 @@ project management, and financial processes 👨‍🔬🔬🧬.
 </div>
 <div class="margin: 12px">
     <a href="https://www.ruby-lang.org/" target="_blank"><img style="margin: 10px" src="https://github.com/ridge-kimani/ridge-kimani/blob/main/logos/ruby.svg" alt="Ruby" height="50" /></a>
-</div>
-<div class="margin: 12px">
-    <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://github.com/ridge-kimani/ridge-kimani/blob/main/logos/java.svg" alt="Java" height="50" /></a>
 </div>
 <div class="margin: 12px">
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img style="margin: 10px" src="https://github.com/ridge-kimani/ridge-kimani/blob/main/logos/css.svg" alt="CSS" height="50" /></a>
@@ -156,9 +152,6 @@ project management, and financial processes 👨‍🔬🔬🧬.
 <div align="center">
 <div class="margin: 12px">
     <a href="https://www.circleci.com" target="_blank"><img style="margin: 10px" src="https://github.com/ridge-kimani/ridge-kimani/blob/main/logos/circleci.svg" alt="Circle CI" height="50" /></a>
-</div>
-<div class="margin: 12px">
-    <a href="https://www.jenkins.com" target="_blank"><img style="margin: 10px" src="https://github.com/ridge-kimani/ridge-kimani/blob/main/logos/jenkins.svg" alt="Jenkins" height="50" /></a>
 </div>
 <div class="margin: 12px">
     <a href="https://www.terraform.io/" target="_blank"><img style="margin: 10px" src="https://github.com/ridge-kimani/ridge-kimani/blob/main/logos/terraform.svg" alt="Terraform" height="50" /></a>

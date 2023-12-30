@@ -2,11 +2,10 @@
 <br></br>
 [![An image of @ridgekimani's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ridgekimani)](https://holopin.io/@ridgekimani)
 <br></br>
-- 👀 Worked with different industries in delivering multiple experiences. These include e-commerce, advertisement,
-project management, and financial processes 👨‍🔬🔬🧬.
-- 🌱 Current main stack is Javascript, Typescript, and Python. Worked with Ruby and Java too 📈.
-- 🌐  Enjoy discovering technology as part of my journey 🎧.
-- 🛸 Working towards energy sustainability: ~ carbon free code ~ 🔋.
+- 👀 Multifaceted engineer: have experience with a bunch of industries 👨‍🔬🔬🧬.
+- 🌱 Stacks: Javascript, Typescript, Python, Ruby, Java 📈.
+- 🌐 Research Scientist: Discover, Develop, Deploy. 🎧.
+- 🛸 Working on energy sustainability: ~ carbon free code ~ 🔋.
 
 
 ## 🌐 Connect:

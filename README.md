@@ -14,7 +14,7 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ridge-kimani)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ridgekimani@gmail.com)
 
-## 
+## :octocat: :octocat: :octocat: 
 <a target="_blank" href="https://github.com/ridgekimani?tab=overview&from=2018-12-01&to=2018-12-3">[![GitHub](https://img.shields.io/badge/ridgekimani-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ridgekimani?tab=overview&from=2018-12-01&to=2018-12-31)</a>
 - <2015 - 2018>
 

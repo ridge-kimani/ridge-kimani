@@ -3,7 +3,7 @@
 [![An image of @ridgekimani's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ridgekimani)](https://holopin.io/@ridgekimani)
 <br></br>
 - 👀 Multifaceted engineer 👨‍🔬🔬🧬.
-- 🌱 Stacks: Javascript, Typescript, Python, Ruby, Java 📈.
+- 🌱 Writes in Javascript, Typescript, Python 📈.
 - 🌐 Research Scientist: Discover, Develop, Deploy. 🎧.
 - 🛸 Working on energy sustainability: ~ carbon free code ~ 🔋.
 

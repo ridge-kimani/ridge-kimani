@@ -2,10 +2,9 @@
 <br></br>
 [![An image of @ridgekimani's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ridgekimani)](https://holopin.io/@ridgekimani)
 <br></br>
-- 👀 Multifaceted engineer 👨‍🔬🔬🧬.
+- 👀 Multifaceted engineer & 🌐 Research Scientist: Discover, Develop, Deploy. 🎧👨‍🔬🔬🧬.
 - 🌱 Writes in Javascript, Typescript, Node JS, Python 📈.
   - ([Eventually translates to 0's and 1's])
-- 🌐 Research Scientist: Discover, Develop, Deploy. 🎧.
 - 🛸 Working on energy sustainability: ~ carbon free code ~ 🔋.
 
 

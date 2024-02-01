@@ -8,7 +8,7 @@
 - 🛸 Working on energy sustainability: ~ carbon free code ~ 🔋.
 
 
-## 🌐 Connect:
+### 🌐 Connect:
 [![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/ridgekimani)
 [![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)](https://bitbucket.org/ridgekimani)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ridge-kimani)

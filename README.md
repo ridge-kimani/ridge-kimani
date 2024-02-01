@@ -1,4 +1,4 @@
-# Hi 👋
+## Hi 👋
 <br></br>
 [![An image of @ridgekimani's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ridgekimani)](https://holopin.io/@ridgekimani)
 <br></br>

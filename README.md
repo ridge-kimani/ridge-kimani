@@ -16,7 +16,7 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ridge-kimani)
 
 
-### :octocat: :octocat: :octocat: :octocat:
+### :octocat: :octocat: Archives :octocat: :octocat:
 <a target="_blank" href="https://github.com/rnkimani?tab=overview&from=2020-12-01&to=2020-12-31">[![GitHub](https://img.shields.io/badge/rnkimani-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rnkimani?tab=overview&from=2020-12-01&to=2020-12-31)</a>
 - <2017 - 2021>
 

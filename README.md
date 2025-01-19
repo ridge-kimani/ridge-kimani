@@ -12,7 +12,7 @@
 ## 🌐 Connect:
 </br>
 
-[![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/ridgekimani)
+[![Portfolio](https://img.shields.io/badge/portfolio-%23181717.svg?style=for-the-badge&logo=portfolio&logoColor=white)](https://presence-f176c.web.app/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ridge-kimani)
 
 
